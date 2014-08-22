@@ -1,0 +1,5 @@
+# R command history
+*.Rhistory
+
+# R studio file
+*.Rproj*
